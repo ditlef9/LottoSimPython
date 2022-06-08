@@ -63,9 +63,9 @@ This makes your wallet balance decrease.
 
 ## 2 Install
 
-a) Download and install the latest version of Python
-b) Download and install PyCharm
-c) Check out this project in PyCharm.
-d) Inside PyCharm project select "Add a Configuration" and make it point to file main.py.
+a) Download and install the latest version of Python <br />
+b) Download and install PyCharm <br />
+c) Check out this project in PyCharm. <br />
+d) Inside PyCharm project select "Add a Configuration" and make it point to file main.py. <br />
 
 Now you can run the app.
