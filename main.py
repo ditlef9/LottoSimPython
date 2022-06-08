@@ -1,3 +1,13 @@
+###
+#
+# File: main.py
+# Version 1.0.0
+# Date 14:28 25.03.2022
+# Copyright (c) 2022 S. A. Ditlefsen
+# License: http://opensource.org/licenses/gpl-license.php GNU Public License
+#
+###
+
 import time
 
 from coupon import Coupon
