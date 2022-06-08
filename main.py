@@ -106,13 +106,12 @@ class Main:
             self.__wallet = self.__wallet + my_gain
 
             # Print gain
-            print(f"Gain: {my_gain}")
-            print(f"Wallet: {self.__wallet}")
+            print(f"Gain: {my_gain: }")
+            print(f"Wallet: {self.__wallet: }")
 
         # Sleep before return
         time.sleep(1)
 
         return is_winner
-
 
 Main()
