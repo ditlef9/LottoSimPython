@@ -97,9 +97,9 @@ class Main:
                     print("~ ~ ~ ~ ~ A L M O S T. W I N N E R ~ ~ ~ ~ ~")
                 elif result == "6+0":
                     print({result})
-                elif result == "5+0":
+                elif result == "5+0" or result == "5+1":
                     print({result})
-                elif result == "4+0":
+                elif result == "4+0" or result == "4+1":
                     print({result})
 
             # Update wallet with result
